@@ -1,0 +1,10 @@
+.connected-container,
+.disconnected-container {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 250px;
+}
